@@ -1,7 +1,8 @@
 # Gowun Dodum Project
 Korean fonts
 
-![https://github.com/yangheeryu/Gowun-Dodum/blob/master/Documentation/Gowun%20Dodum_Image1.jpg]
+![Gowun Dodum_Image1](https://user-images.githubusercontent.com/47383432/107023506-a70be380-679e-11eb-879f-03bca7e7eae6.jpg)
+
 
 Gowun Dodum(고운돋움) is a humanistic sans-serif typeface with a touch of hand movement. Gowun means ‘neat and delicate’ in Korean and this typeface has a warm and friendly impression. Dodum is the style name for sans-serif Hangeul text typeface.
 

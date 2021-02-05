@@ -11,6 +11,7 @@ Gowun Dodum(고운돋움) is a humanistic sans-serif typeface with a touch of ha
 It is designed especially for Hangeul typography, but it also includes Latin alphabet as a part of KS X 1001. This typeface has a regular weight at this moment.
 
 
+
 ## Basic Information
 Gowun Dodum(고운돋움) is a revised name of Gowun Hangeul-dodum(고운한글돋움) which was released in 2010. 
 
@@ -26,12 +27,13 @@ It consists of the full set of modern Hangeul syllables(11,172 characters), Goog
 - There is a sibling family, [Gowun Batang(고운바탕)](https://github.com/yangheeryu/Gowun-Batang)
 
 
-# Designer
+
+## Designer
 
 Yanghee Ryu
 
 
 
-# License
+## License
 
 SIL Open Font License ([OFL.txt](OFL.txt))
